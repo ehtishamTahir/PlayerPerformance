@@ -1,0 +1,51 @@
+PlayerName,Date,MatchType(OneDay-T20-Test),Opposition Team,TossWin,BowlingFirst,BattingFirst,Hometeam,LastMatchesPerformance,Last3MatchesPerformance,Last6MatchesPerformance,weather,pitch,Form(InOrOut),Order(BattingBowlingOrder),Performance(IT is label. For Batsman:Runs. For Bowler: Wickets)
+Muhammad Hafeez,25/12/2012,T20,India,win,yes,no,India,good,good,good,sunny,dry,in,3,61
+Muhammad Hafeez,28/12/2012,T20,India,win,yes,no,India,good,average,average,sunny,dry,in,4,55
+Muhammad Hafeez,28/12/2012,T20,South Africa,win,no,yes,South Africa,good,good,average,sunny,hard,in,3,86
+Muhammad Hafeez,27/07/2013,T20,West Indies,lost,yes,no,West Indies,good,good,average,overcast,hard,in,3,13
+Muhammad Hafeez,28/07/2013,T20,West Indies,win,no,yes,West Indies,average,good,good,humid,green,in,2,10
+Muhammad Hafeez,23/08/2013,T20,Zimbabwe,lost,yes,no,Zimbabwe,bad,good,good,humid,green,in,3,3
+Muhammad Hafeez,24/08/2013,T20,Zimbabwe,lost,yes,no,Zimbabwe,bad,bad,good,humid,green,out,3,54
+Muhammad Hafeez,13/11/2013,T20,South Africa,win,no,yes,Pakistan,average,bad,average,sunny,hard,out,4,0
+Muhammad Hafeez,15/11/2013,T20,South Africa,lost,yes,no,Pakistan,average,bad,bad,sunny,hard,out,3,0
+Muhammad Hafeez,20/11/2013,T20,South Africa,win,yes,no,South Africa,bad,bad,bad,sunny,hard,out,3,13
+Muhammad Hafeez,22/11/2013,T20,South Africa,win,no,yes,South Africa,bad,bad,bad,sunny,hard,out,3,63
+Muhammad Hafeez,8/12/2013,T20,Afghanistan,lost,yes,no,Afghanistan,average,bad,bad,overcast,dusty,out,3,42
+Muhammad Hafeez,11/12/2013,T20,Sri Lanka,win,yes,no,Pakistan,good,good,bad,overcast,hard,in,3,32
+Muhammad Hafeez,13/12/2013,T20,Sri Lanka,win,yes,no,Pakistan,good,good,average,overcast,green,in,3,7
+Muhammad Hafeez,21/03/2014,T20,India,lost,no,yes,Pakistan,average,bad,good,sunny,dry,out,3,15
+Muhammad Hafeez,23/03/2014,T20,Australia,win,no,yes,Pakistan,bad,bad,average,sunny,hard,out,3,13
+Muhammad Hafeez,30/03/2014,T20,Bangladesh,win,no,yes,Pakistan,bad,bad,bad,sunny,green,out,3,8
+Muhammad Hafeez,1/4/2014,T20,West Indies,lost,yes,no,Pakistan,bad,bad,bad,humid,green,out,3,19
+Muhammad Hafeez, 04/12/2014,T20,New Zealand,lost,yes,no,Pakistan,bad,bad,bad,humid,hard,out,3,2
+Muhammad Hafeez,  05/12/2014,T20,New Zealand,win,yes,no,Pakistan,bad,bad,bad,sunny,hard,out,3,9
+Muhammad Hafeez,24/04/2015,T20,Bangladesh,win,no,yes,Pakistan,bad,bad,bad,sunny,hard,out,5,26
+Muhammad Hafeez,22/05/2015,T20,Zimbabwe,lost,yes,no,Zimbabwe,bad,bad,bad,sunny,r,out,3,12
+Muhammad Hafeez,30/07/2015,T20,Sri Lanka,win,no,yes,Sri Lanka,bad,bad,bad,sunny,dry,out,3,17
+Muhammad Hafeez, 01/08/2015,T20,Sri Lanka,lost,no,yes,Sri Lanka,bad,bad,bad,sunny,hard,out,3,11
+Muhammad Hafeez,29/09/2015,T20,Zimbabwe,lost,yes,no,Zimbabwe,bad,bad,bad,sunny,green,out,3,17
+Muhammad Hafeez,26/11/2015,T20,England,lost,yes,no,Pakistan,bad,bad,bad,overcast,dry,out,3,7
+Muhammad Hafeez,27/11/2015,T20,England,lost,yes,no,Pakistan,bad,bad,bad,overcast,dry,out,3,25
+Muhammad Hafeez,30/11/2015,T20,England,lost,yes,no,Pakistan,bad,bad,bad,overcast,green,out,3,1
+Muhammad Hafeez,15/01/2016,T20,New Zealand,lost,no,yes,New Zealand,bad,bad,bad,sunny,hard,out,1,61
+Muhammad Hafeez,17/01/2016,T20,New Zealand,win,no,yes,New Zealand,average,bad,bad,overcast,hard,out,1,19
+Muhammad Hafeez,22/01/2016,T20,New Zealand,win,yes,no,New Zealand,average,bad,bad,overcast,hard,out,1,2
+Muhammad Hafeez,27/02/2016,T20,India,lost,no,yes,none,bad,bad,bad,sunny,dry,out,1,4
+Muhammad Hafeez,29/02/2016,T20,United Arab Emirates,lost,yes,no,none,bad,bad,bad,sunny,dry,out,1,11
+Muhammad Hafeez, 02/03/2016,T20,Bangladesh,win,no,yes,Bangladesh,bad,bad,bad,sunny,green,out,3,2
+Muhammad Hafeez, 04/03/2016,T20,Sri Lanka,win,yes,no,none,bad,bad,bad,sunny,green,out,2,14
+Muhammad Hafeez,16/03/2016,T20,Bangladesh,win,no,yes,none,bad,bad,bad,sunny,green,out,3,64
+Muhammad Hafeez,19/03/2016,T20,India,win,yes,no,India,average,bad,bad,sunny,hard,out,7,5
+Muhammad Hafeez,26/03/2017,T20,West Indies,win,yes,no,West Indies,average,bad,bad,humid,dusty,out,4,5
+Muhammad Hafeez,26/10/2017,T20,Sri Lanka,win,yes,no,Pakistan,bad,bad,bad,sunny,hard,out,5,25
+Muhammad Hafeez,27/10/2017,T20,Sri Lanka,win,yes,no,Pakistan,bad,bad,bad,sunny,dry,out,5,14
+Muhammad Hafeez,1/7/2018,T20,Zimbabwe,lost,no,yes,Zimbabwe,bad,bad,bad,sunny,green,out,1,7
+Muhammad Hafeez,2/7/2018,T20,Australia,lost,no,yes,Zimbabwe,bad,bad,bad,sunny,hard,out,1,0
+Muhammad Hafeez,24/10/2018,T20,Australia,lost,no,yes,Pakistan,bad,bad,bad,sunny,hard,out,3,39
+Muhammad Hafeez,26/10/2018,T20,Australia,win,no,yes,Pakistan,average,bad,bad,sunny,hard,out,3,40
+Muhammad Hafeez,28/10/2018,T20,Australia,win,no,yes,Pakistan,good,bad,bad,sunny,hard,out,3,32
+Muhammad Hafeez,31/10/2018,T20,New Zealand,win,no,yes,Pakistan,good,good,bad,sunny,green,in,4,45
+Muhammad Hafeez, 02/11/2018,T20,New Zealand,lost,yes,no,Pakistan,good,good,average,sunny,dry,in,4,34
+Muhammad Hafeez,4/11/2018,T20,New Zealand,win,no,yes,Pakistan,good,good,good,sunny,dry,in,1,53
+Muhammad Hafeez,24/01/2020,T20,Bangladesh,lost,yes,no,Pakistan,good,good,good,sunny,green,in,3,17
+Muhammad Hafeez,25/01/2020,T20,Bangladesh,lost,yes,no,Pakistan,average,good,good,sunny,hard,in,3,67
